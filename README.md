@@ -1,6 +1,6 @@
 # 📌 Project Overview
 Drive into the data job market!
-This project analyzes Data Analyst roles to uncover:
+This project analyzes Data Analyst roles to uncover: 
 
 * 💰Top-paying jobs
 * 🛠️ Most in-demand skills
